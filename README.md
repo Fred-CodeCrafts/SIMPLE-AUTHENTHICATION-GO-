@@ -27,31 +27,6 @@ A simple authentication microservice built with Go, designed for modularity and 
 
 ---
 
-## 📁 Project Structure
-
-.
-├── cmd/
-│   └── main.go
-├── controllers/
-│   └── auth.go
-├── models/
-│   └── user.go
-├── services/
-│   └── auth.go
-├── utils/
-│   ├── hash.go
-│   └── random.go
-├── go.mod
-├── go.sum
-├── Dockerfile                # (planned)
-├── docker-compose.yml        # (planned)
-├── .gitattributes
-├── .gitignore
-├── LICENSE
-└── README.md
-
----
-
 ## 🚀 Getting Started
 
 ### Prerequisites
